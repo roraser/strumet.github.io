@@ -215,36 +215,53 @@
 <rect x="337.3" y="337.2" class="st8" width="239.5" height="239.5"/>
 <g>
 	<g>
-		<defs>
-			<rect id="SVGID_1_" x="613.7" y="613.6" width="239.5" height="239.5"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st13">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="3072" height="2041" xlink:href="893033_03.jpg"  transform="matrix(0.1334 0 0 0.1334 557 597)">
-			</image>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="613.7" y="613.6" width="239.5" height="239.5"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st13">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="3072" height="2041" xlink:href="893033_03.jpg"  transform="matrix(0.1334 0 0 0.1334 557 597)">
+				</image>
+			</g>
 		</g>
 	</g>
 </g>
 <g>
 	<g>
-		<defs>
-			<ellipse id="SVGID_3_" cx="462.5" cy="733.9" rx="120" ry="119.5"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-		</clipPath>
-		<g transform="matrix(1 0 0 1 7.629395e-06 -3.051758e-05)" class="st14">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="4032" height="3024" xlink:href="893033_05.JPG"  transform="matrix(0.1864 0 0 0.1864 102 420)">
-			</image>
+		<g>
+			<defs>
+				<ellipse id="SVGID_3_" cx="462.5" cy="733.9" rx="120" ry="119.5"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 7.629395e-06 -3.051758e-05)" class="st14">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="4032" height="3024" xlink:href="893033_05.JPG"  transform="matrix(0.1864 0 0 0.1864 102 420)">
+				</image>
+			</g>
 		</g>
 	</g>
 </g>
 <rect x="244.9" y="245.3" class="st8" width="331.9" height="331.4"/>
-<text transform="matrix(1 0 0 1 244.9414 257.4434)"><tspan x="0" y="0" class="st15 st16">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed </tspan><tspan x="0" y="24" class="st15 st16">diam nonummy nibh euismod tincidunt ut laoreet dolore </tspan><tspan x="0" y="48" class="st15 st16">magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </tspan><tspan x="0" y="72" class="st15 st16">quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut </tspan><tspan x="0" y="96" class="st15 st16">aliquip ex ea commodo consequat. Duis autem vel eum iriure </tspan><tspan x="0" y="120" class="st15 st16">dolor in hendrerit in vulputate velit esse molestie consequat, vel </tspan><tspan x="0" y="144" class="st15 st16">illum dolore eu feugiat nulla facilisis at vero eros et accumsan et </tspan><tspan x="0" y="168" class="st15 st16">iusto odio dignissim qui blandit praesent luptatum zzril delenit </tspan><tspan x="0" y="192" class="st15 st16">augue duis dolore te feugait nulla facilisi.</tspan><tspan x="0" y="216" class="st15 st16">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed </tspan><tspan x="0" y="240" class="st15 st16">diam nonummy nibh euismod tincidunt ut laoreet dolore </tspan><tspan x="0" y="264" class="st15 st16">magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </tspan><tspan x="0" y="288" class="st15 st16">quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut </tspan><tspan x="0" y="312" class="st15 st16">aliquip ex ea commodo consequat.</tspan></text>
+<text transform="matrix(1 0 0 1 244.9414 257.4434)" class="st15 st16">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed </text>
+<text transform="matrix(1 0 0 1 244.9414 281.4434)" class="st15 st16">diam nonummy nibh euismod tincidunt ut laoreet dolore </text>
+<text transform="matrix(1 0 0 1 244.9414 305.4434)" class="st15 st16">magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </text>
+<text transform="matrix(1 0 0 1 244.9414 329.4434)" class="st15 st16">quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut </text>
+<text transform="matrix(1 0 0 1 244.9414 353.4434)" class="st15 st16">aliquip ex ea commodo consequat. Duis autem vel eum iriure </text>
+<text transform="matrix(1 0 0 1 244.9414 377.4434)" class="st15 st16">dolor in hendrerit in vulputate velit esse molestie consequat, vel </text>
+<text transform="matrix(1 0 0 1 244.9414 401.4434)" class="st15 st16">illum dolore eu feugiat nulla facilisis at vero eros et accumsan et </text>
+<text transform="matrix(1 0 0 1 244.9414 425.4434)" class="st15 st16">iusto odio dignissim qui blandit praesent luptatum zzril delenit </text>
+<text transform="matrix(1 0 0 1 244.9414 449.4434)" class="st15 st16">augue duis dolore te feugait nulla facilisi.</text>
+<text transform="matrix(1 0 0 1 244.9414 473.4434)" class="st15 st16">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed </text>
+<text transform="matrix(1 0 0 1 244.9414 497.4434)" class="st15 st16">diam nonummy nibh euismod tincidunt ut laoreet dolore </text>
+<text transform="matrix(1 0 0 1 244.9414 521.4434)" class="st15 st16">magna aliquam erat volutpat. Ut wisi enim ad minim veniam, </text>
+<text transform="matrix(1 0 0 1 244.9414 545.4434)" class="st15 st16">quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut </text>
+<text transform="matrix(1 0 0 1 244.9414 569.4434)" class="st15 st16">aliquip ex ea commodo consequat.</text>
 <text transform="matrix(1 0 0 1 756.6768 259.9916)" class="st15 st16">Lorem </text>
 <text transform="matrix(1 0 0 1 688.8768 283.9916)" class="st15 st16">ipsum dolor sit amet, consec</text>
 <text transform="matrix(1 0 0 1 836.1768 283.9916)" class="st15 st16">-</text>
@@ -261,11 +278,7 @@
 <text transform="matrix(1 0 0 1 679.8768 547.9916)" class="st15 st16">adipiscing elit, sed diam nonummy </text>
 <text transform="matrix(1 0 0 1 728.1768 571.9916)" class="st15 st16">nibh euismod </text>
 <g id="_x38_93033_x5F_sezione.psd_1_">
-	
-		<image style="overflow:visible;" width="2248" height="2435" id="Layer_1_3_" xlink:href="D04195C24D8C2F70.png"  transform="matrix(0.199 0 0 0.1915 0 723.8447)">
-	</image>
-	
-		<image style="overflow:visible;" width="2126" height="2431" id="Layer_3_2_" xlink:href="D04195C24D8C2F71.png"  transform="matrix(0.199 0 0 0.1915 0 724.4193)">
-	</image>
 </g>
+<image style="overflow:visible;" width="2407" height="2548" xlink:href="../../../../../Desktop/colore.png"  transform="matrix(0.1759 0 0 0.1759 5.3204 742.4945)">
+</image>
 </svg>
